@@ -1,0 +1,32 @@
+_repo: Algemeene-Geschiedenis-in-VerhalenOudheid_40351
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40351-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Solger, H.
+    gutenberg_agent_id: '40566'
+    url: http://www.gutenberg.org/2009/agents/40566
+description: ''
+gutenberg_issued: '2012-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40351'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'History, Ancient'
+- !lcc 'D'
+tableOfContents: 'Inleiding -- De Egyptenaren -- Kores en de Perzen -- De Phoeniciërs
+  -- De Grieken -- De tocht naar Troje: 1200 v. C. -- Lycurgus en de Spartanen: 888
+  -- Solon en de Atheners -- De Perzische oorlogen -- Pericles: 444 -- Alcibiades
+  -- Socrates: 400 -- Epaminondas en Pelopidas -- Alexander van Macedonië -- De oude
+  Romeinen -- Pyrrhus en Fabricius -- De Punische oorlogen: 264-146 -- De Gracchen
+  -- Marius en Sulla -- Julius Caesar: 44 -- Octavianus Augustus -- Verscheidene Keizers
+  van ''t Romeinsche rijk -- Constantijn de Groote: 323 n. C. -- De volksverhuizing:
+  375 -- Ondergang van ''t West-Romeinsche rijk.'
+title: 'Algemeene Geschiedenis in Verhalen: Oudheid'
+url: http://www.gutenberg.org/ebooks/40351
